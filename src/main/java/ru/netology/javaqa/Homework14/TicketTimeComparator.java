@@ -1,3 +1,5 @@
+package ru.netology.javaqa.Homework14;
+
 import java.util.Comparator;
 
 public class TicketTimeComparator implements Comparator<Ticket> {

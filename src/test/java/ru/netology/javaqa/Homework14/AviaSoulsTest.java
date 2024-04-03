@@ -1,3 +1,5 @@
+package ru.netology.javaqa.Homework14;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
@@ -71,7 +73,7 @@ public class AviaSoulsTest {
     }
 
     @Test
-    public void sortFirstFlightEqualsThanSecond() {
+    public void sortFirstFlightEqualsSecond() {
 
         TicketTimeComparator comparator = new TicketTimeComparator();
 
